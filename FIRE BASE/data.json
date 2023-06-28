@@ -1,0 +1,80 @@
+[
+    {
+        "Marca":"Xiami",
+        "Modelo":"Redmi Note 11S 5G",
+        "Caracteristica":"Almacenamiento 128 GB , Memoria RAM 4 GB, Batería 5000 mAh",
+        "precio":"",
+        "img":""
+    },
+    {
+        "Marca":"Xiami",
+        "Modelo":"Redmi Note 11",
+        "Caracteristica":"Almacenamiento 128 GB , Memoria RAM 4 GB, Batería 5000 mAh",
+        "precio":"",
+        "img":""
+    },
+    {
+        "Marca":"Xiami",
+        "Modelo":"Redmi 10A",
+        "Caracteristica":"Almacenamiento 32 GB , Memoria RAM 2 GB, Batería 5000 mAh",
+        "precio":"",
+        "img":""
+    
+    },
+    {
+        "Marca":"Xiami",
+        "Modelo":"Xiaomi 12 Lite",
+        "Caracteristica":"Almacenamiento 128 GB , Memoria RAM 8 GB, Batería 4300 mAh",
+        "precio":"",
+        "img":""
+    
+    },
+    {
+        "Marca":"Xiami",
+        "Modelo":"Redmi Note 12 Pro+",
+        "Caracteristica":"Almacenamiento 256 GB , Memoria RAM 8 GB, Batería 5000 mAh",
+        "precio":"",
+        "img":""
+    
+    },
+    {
+        "Marca":"Xiami",
+        "Modelo":"Redmi 12C",
+        "Caracteristica":"Almacenamiento 128 GB , Memoria RAM 8 GB, Batería 5000 mAh",
+        "precio":"",
+        "img":""
+    
+    },
+    {
+        "Marca":"Samsung",
+        "Modelo":"Samsung Galaxi A54",
+        "Caracteristica":"Almacenamiento 128 GB , Memoria RAM 8 GB, Batería 5000 mAh",
+        "precio":"",
+        "img":""
+    
+    },
+    {
+        "Marca":"Samsung",
+        "Modelo":"Samsung Galaxy S21",
+        "Caracteristica":"Almacenamiento 128 GB , Memoria RAM 8 GB, Batería 5000 mAh",
+        "precio":"",
+        "img":""
+    
+    },
+    {
+        "Marca":"Samsung",
+        "Modelo":"Samsung Galaxy A34",
+        "Caracteristica":"Memoria RAM 8 GB, Batería 5000 mAh",
+        "precio":"",
+        "img":""
+    
+    },
+    {
+        "Marca":"Samsung",
+        "Modelo":"Samsung Galaxy A24",
+        "Caracteristica":"Almacenamiento 128 GB , Memoria RAM 8 GB, Batería 5000 mAh",
+        "precio":"",
+        "img":""
+    
+    }
+]
